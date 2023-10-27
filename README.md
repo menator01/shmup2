@@ -1,8 +1,8 @@
 # shmup2
-work in progress
- download the shmup.tar.gz, music.tar.gz, and sounds.tar.gz
- Extract all files
- Place the sounds and music folders in the shmup media folder
+<b>work in progress</b><br>
+ download the shmup.tar.gz, music.tar.gz, and sounds.tar.gz<br>
+ Extract all files<br>
+ Place the sounds and music folders in the shmup media folder<br>
 
  
  enjoy

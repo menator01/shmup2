@@ -1,8 +1,11 @@
-# shmup version 0.02
-<b>work in progress</b><br>
- download the shmup.tar.gz, music.tar.gz, and sounds.tar.gz<br>
- Extract all files<br>
- Place the sounds and music folders in the shmup media folder<br>
+<h2>Shmup version 0.02</h2>
 
- 
- enjoy
+<b>Requirements</b>
+<ul>
+ <li>python 3.12</li>
+ <li>pygame 2.5.2</li>
+ <li>sqlite3</li>
+</ul>
+
+Extract all files and open a shell in the main folder and type python3.12 shmup.py
+Enjoy
